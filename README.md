@@ -46,4 +46,4 @@ public class ProductManager {
 
 Напишите тесты на менеджер и репозиторий, добившись 100% покрытия по бранчам методов с логикой.
 
-##[Решение](https://github.com/ripodgor/Java_QA46_13)
+## [Решение](https://github.com/ripodgor/Java_QA46_13)
